@@ -1,4 +1,3 @@
 # python_rpa_module
-pythonで業務自動化
-
+Pythonで業務自動化
 checkした脆弱性チェック結果をexcelに入れるpython module
